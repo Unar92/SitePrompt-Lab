@@ -1,0 +1,33 @@
+Content Tone & Voice System Template
+====================================
+
+This file is a template for defining your organization's brand voice and tone guidelines.
+Replace the content below with your own brand persona, voice pillars, and communication guidelines.
+
+1. The Brand Persona
+Define who you are and your core identity.
+
+2. Core Voice Pillars
+Establish the key principles that anchor your content.
+
+3. The Tone of Voice Scale
+Define where your brand sits on scales like:
+- Confident vs Humble
+- Professional vs Casual
+- Visionary vs Tactical
+- Emotional vs Analytical
+
+4. Communication Guidelines by Audience
+Define how to communicate with different audience types.
+
+5. Vocabulary & Syntax Rules
+List preferred words, phrases, and sentence structures.
+
+6. Case Study Framework
+Define how to present work and projects.
+
+7. Practical Application: "Dos and Don'ts"
+Provide examples of correct vs incorrect tone.
+
+8. Visual/Audio Cues
+Note any visual or sensory elements that inform your writing style.
